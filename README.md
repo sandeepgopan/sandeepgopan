@@ -4,7 +4,7 @@
 <img align="right" width="30%" height="30%" alt="coding" width="400" src="https://github.com/sandeepgopan/sandeepgopan-site/blob/main/images/hero.svg">
 
 - 🌱 I’m currently based out in Canada.
-- 🌱 If you are in Canada or US you might have already used any of the application that I have worked._
+- 🌱 If you are in Canada or US you might have already used any of the application that I have worked on...
 
 
 <h3 align="left">Connect with me:</h3>
