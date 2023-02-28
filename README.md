@@ -6,12 +6,13 @@
 
 
 - 🌱 I’m currently based out in Canada.
-- 🌱 If you are in Canada or US you might have used any of the application that I have worked on....
+- 🌱 If you are in Canada or US you might have used  <br>
+     any of the application that I have worked on....
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/sandeepgopan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepanshu-chaudhry-b35274231" height="30" width="40"/></a>
+<a href="https://linkedin.com/in/sandeepgopan/" target="blank"><img align="center"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
