@@ -12,10 +12,10 @@
 <a href="https://linkedin.com/in/sandeepgopan/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://github.com/sandeepgopan/sandeepgopan-site/blob/main/images/linkedin.svg" height="10%" width="10%"/></a>
 </p>
 <h3 align="left">Webiste:</h3> 
-<p><span><a href="https://sandeepgopan1.netlify.app/" target="_blank" rel="noopener noreferrer">[Sandeep Gopan](https://sandeepgopan1.netlify.app/)</a></span></p>
+<p><span><a href="https://sandeepgopan1.netlify.app/" target="_blank" rel="noopener noreferrer">Sandeep Gopan</a></span>
+<p align="left"><a href="https://github.com/sandeepgopan/sandeepgopan-site" target="_blank" rel="noopener noreferrer"><img align="center" src="https://github.com/sandeepgopan/sandeepgopan-site/blob/main/images/icons8-github.svg" height="5%" width="5%"/></a>code</p>
 
-
-<p><img align="right" width="50%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepgopan&show_icons=true&locale=en&layout=compact" alt="sandeepgopan" /></p>
+<p><img width="50%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepgopan&show_icons=true&locale=en&layout=compact" alt="sandeepgopan" /></p>
 
 <p>&nbsp;<img align="center" width="30%" height="30%" src="https://github-readme-stats.vercel.app/api?username=sandeepgopan&show_icons=true&locale=en" alt="sandeepgopan" /></p>
 
