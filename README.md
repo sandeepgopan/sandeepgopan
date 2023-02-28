@@ -6,7 +6,7 @@
 - 🌱 I’m currently based out in Canada.
 - 🌱 If you are in Canada or US you might have already used any of the application that I have worked on...
 
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeepgopan&label=Profile%20views&color=0e75b6&style=flat" alt="sandeepgopan" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sandeepgopan/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://github.com/sandeepgopan/sandeepgopan-site/blob/main/images/linkedin.svg" height="10%" width="10%"/></a>
