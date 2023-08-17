@@ -17,6 +17,3 @@
 
 <p><img width="50%" height="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeepgopan&show_icons=true&locale=en&layout=compact" alt="sandeepgopan" /></p>
 
-<p>&nbsp;<img width="50%" height="40%"  src="https://github-readme-stats.vercel.app/api?username=sandeepgopan&show_icons=true&locale=en" alt="sandeepgopan" /></p>
-
-<p>&nbsp;<img width="50%" height="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeepgopan&" alt="sandeepgopan" /></p>
